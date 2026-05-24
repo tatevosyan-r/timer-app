@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/tatevosyan-r/timer-app.git/static/js/main.0a1a698b.js",
-    "index.html": "/tatevosyan-r/timer-app.git/index.html",
-    "main.0a1a698b.js.map": "/tatevosyan-r/timer-app.git/static/js/main.0a1a698b.js.map"
+    "main.js": "/tatevosyan-r/timer-app/static/js/main.05804f00.js",
+    "index.html": "/tatevosyan-r/timer-app/index.html",
+    "main.05804f00.js.map": "/tatevosyan-r/timer-app/static/js/main.05804f00.js.map"
   },
   "entrypoints": [
-    "static/js/main.0a1a698b.js"
+    "static/js/main.05804f00.js"
   ]
 }
