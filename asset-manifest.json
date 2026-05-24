@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/timer-app/static/js/main.08a03c71.js",
+    "main.js": "/timer-app/static/js/main.35f4b43a.js",
     "index.html": "/timer-app/index.html",
-    "main.08a03c71.js.map": "/timer-app/static/js/main.08a03c71.js.map"
+    "main.35f4b43a.js.map": "/timer-app/static/js/main.35f4b43a.js.map"
   },
   "entrypoints": [
-    "static/js/main.08a03c71.js"
+    "static/js/main.35f4b43a.js"
   ]
 }
